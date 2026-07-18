@@ -1,0 +1,21 @@
+{
+    "total_count": 2,
+    "contacts": [
+        {
+            "id": "824029765879",
+            "firstname": "Max",
+            "lastname": "Test",
+            "email": "niklas-meyer01@gmx.net",
+            "created_at": null,
+            "notes_last_updated": null
+        },
+        {
+            "id": "824029766857",
+            "firstname": "as",
+            "lastname": "sd",
+            "email": "kontakt@test.com",
+            "created_at": null,
+            "notes_last_updated": null
+        }
+    ]
+}
