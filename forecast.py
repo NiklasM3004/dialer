@@ -1,6 +1,28 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+
+Optimierungspotenziale:
+
+- Integriere Kundenanzahl
+- Integriere Monthly Churn basierend auf Kundenanzahl
+
+
+- Integriere NRR durch Preissteigerung und neue Abos
+    () step 1 overall
+    () step 2 granular je Maßnahme
+
+
+- Integriere Conversion Rate, Terminierungsrate, Monthly Churn und NRR für jedes Paket und jede Lead-Quelle
+
+- Integriere maximale Anzahl an Setter Terminen
+- Integriere maximale verbundene Telfonate je Setter
+
+- Integriere Saisonalität durch Monatsmultiplikator
+- Integriere Zeit bis zum Closing
+
+
+
 SaaS Vertriebs-Forecast – Setter/Closer-Skalierung (Mai 2027, 60 Monate)
 ========================================================================
 
